@@ -1,1 +1,1 @@
-# ReconocimientoDeImagenes
+# Reconocimiento De Imagenes
